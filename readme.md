@@ -37,6 +37,4 @@ Output: `build/OptiFlow/Build/Products/Release/OptiFlow.app`.
 This is a locally signed application, without distribution signing or notarization.
 The existing release automation is untouched and is not used for this local build.
 
-See [LOCAL_VERIFICATION.md](LOCAL_VERIFICATION.md) for the investigation, measured
-results, test evidence, and verification limits. `Benchmarks/DragBenchmark.swift`
-is a separate local diagnostic executable; it is not linked into the application.
+
